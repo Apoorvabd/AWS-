@@ -18,7 +18,7 @@ create vm by using AWS
  browse private key and open the private key you download
  go to session and open it
  your vm is now created   
-  install
+  install   
 
 
  
